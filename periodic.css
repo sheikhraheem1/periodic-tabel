@@ -1,0 +1,40 @@
+*{ margin: auto;
+    padding: auto;
+    background-color: #1b2433;
+    
+}
+.head{
+    text-align: center;
+}
+td{
+
+    border: 1px solid;
+    
+}
+.none{
+    border: none;
+}
+.purpule{
+    color: #981ba8;
+}
+.blue{
+    color:#9753db;
+}
+.lightgreen{
+    color: #bbde71;
+}
+.red{
+    color: #ff2121;
+}
+.yellow{
+    color: #f0b70c;
+}
+.seablue{
+    color: #36cbf5;
+}
+.orange{
+    color: #de6443;
+}
+.green{
+    color: #05f06f;
+}
